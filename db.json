@@ -294,6 +294,53 @@
           "imgUrl": "http://www.dell-lee.com/imgs/vue3/crab.png"
         }
       ]
+    },
+    {
+      "id": "3d5b",
+      "errno": 0,
+      "addressId": 1,
+      "shopId": 1,
+      "shopName": "沃尔玛",
+      "price": "675.02",
+      "total": 18,
+      "isCanceled": false,
+      "products": [
+        {
+          "id": 1001,
+          "num": 2,
+          "imgUrl": "http://www.dell-lee.com/imgs/vue3/tomato.png"
+        },
+        {
+          "id": 1002,
+          "num": 2,
+          "imgUrl": "http://www.dell-lee.com/imgs/vue3/cherry.png"
+        },
+        {
+          "id": 1003,
+          "num": 3,
+          "imgUrl": "http://www.dell-lee.com/imgs/vue3/orange.png"
+        },
+        {
+          "id": 1004,
+          "num": 4,
+          "imgUrl": "http://www.dell-lee.com/imgs/vue3/crab.png"
+        },
+        {
+          "id": 1005,
+          "num": 1,
+          "imgUrl": "http://www.dell-lee.com/imgs/vue3/crab.png"
+        },
+        {
+          "id": 1006,
+          "num": 5,
+          "imgUrl": "http://www.dell-lee.com/imgs/vue3/crab.png"
+        },
+        {
+          "id": 1007,
+          "num": 1,
+          "imgUrl": "http://www.dell-lee.com/imgs/vue3/crab.png"
+        }
+      ]
     }
   ]
 }
